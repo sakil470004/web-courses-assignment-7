@@ -2,7 +2,7 @@ import React from 'react';
 
 const SearchBox = ({ searchField, searchChange }) => {
   return (
-    <div className='ma2 pa3 tc '>
+    <div className='ma2 pa3 tc b--none '>
       <input
         className='pa3 b--none bg-lightest-blue br-pill'
         type='search'

@@ -4,6 +4,7 @@
 var developers = [
     {
         "id": 1,
+        "price":120,
         "img":'https://image.shutterstock.com/image-photo/new-york-usa-july-2-600w-1132205840.jpg',
         "courseName": "Android Development",
         "name": "Leanne Graham",
@@ -29,6 +30,7 @@ var developers = [
     },
     {
         "id": 2,
+        "price":20,
         "img":"https://image.shutterstock.com/image-photo/programming-language-javascript-inscription-on-600w-1463449130.jpg",
         "courseName": "Javascript Development",
         "name": "Ervin Howell",
@@ -54,6 +56,7 @@ var developers = [
     },
     {
         "id": 3,
+        "price":10,
         "img": "https://image.shutterstock.com/image-vector/learn-code-node-js-javascript-600w-1302140266.jpg",
         "courseName": "Nodejs Development",
         "name": "Clementine Bauch",
@@ -79,6 +82,7 @@ var developers = [
     },
     {
         "id": 4,
+        "price":320,
         "img":'https://image.shutterstock.com/image-vector/react-application-programming-language-coding-600w-1467125189.jpg',
         "courseName": "React Development",
         "name": "Patricia Lebsack",
@@ -104,6 +108,7 @@ var developers = [
     },
     {
         "id": 5,
+        "price":30,
         "img":"https://image.shutterstock.com/image-photo/businessman-shows-concept-hologram-react-600w-1092964973.jpg",
         "courseName": "React Fullstack Development",
         "name": "Chelsey Dietrich",
@@ -129,6 +134,7 @@ var developers = [
     },
     {
         "id": 6,
+        "price":50,
         "img":'https://image.shutterstock.com/image-photo/buenos-aires-argentina-june-22-600w-1761691643.jpg',
         "courseName": "IOS Development",
         "name": "Mrs. Dennis Schulist",
@@ -154,6 +160,7 @@ var developers = [
     },
     {
         "id": 7,
+        "price":23,
         "img":'https://image.shutterstock.com/image-photo/react-native-inscription-against-laptop-600w-1930384340.jpg',
         "courseName": "React Native Development",
         "name": "Kurtis Weissnat",
@@ -179,6 +186,7 @@ var developers = [
     },
     {
         "id": 8,
+        "price":45,
         "img":'https://image.shutterstock.com/image-photo/c-programming-language-a-woman-600w-1557881525.jpg',
         "courseName": "C++ Development",
         "name": "Nicholas Runolfsdottir V",
@@ -204,6 +212,7 @@ var developers = [
     },
     {
         "id": 9,
+        "price":65,
         "img":'https://image.shutterstock.com/image-photo/woman-using-tablet-pc-pressing-600w-493860805.jpg',
         "courseName": "Java Development",
         "name": "Glenna Reichert",
@@ -229,6 +238,7 @@ var developers = [
     },
     {
         "id": 10,
+        "price":71,
         "img":'https://image.shutterstock.com/image-vector/shopping-online-on-website-social-600w-1928556269.jpg',
         "courseName": "Web application Development",
         "name": "Clementina DuBuque",

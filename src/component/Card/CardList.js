@@ -1,19 +1,23 @@
-import React from 'react';
+import {React} from 'react';
 import Card from './Card';
 
-const CardList = ({ data }) => {
+const CardList = ({ data ,handleAddToCart}) => {
+
+ 
+
   return (
-    <div className= 'tc'>
+    <div className='tc'>
       {
         data.map((user, i) => {
           return (
-            <Card 
+            <Card
               key={i}
               id={data[i].id}
               name={data[i].courseName}
               image={data[i].img}
-             
-              />
+              price={data[i].price}
+              handleAddToCart={handleAddToCart}
+            />
           );
         })
       }

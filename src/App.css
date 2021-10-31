@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.search-total-wrapper {
+  display: flex;
+  justify-content: space-between;
+  margin: 0px 55px;
+}
+.search-total-wrapper> h2,h4{
+  color:rgb(59, 24, 24)
+}
+
+.search-total-wrapper> h4{
+  color:rgb(59, 24, 24)
+}
